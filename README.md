@@ -5,3 +5,5 @@ The implementation involves leveraging a pre-trained VGG19 model and employing T
 The model optimizes a generated image to minimize the differences in content and style between the new artwork and the reference art, ultimately producing a visually coherent composition that captures the essence of the chosen artistic style. Parameters such as epochs, content_weight, and style_weight are customizable to fine-tune the adaptation process. The assignment addresses the challenging task of emulating artistic styles through deep learning, fostering creativity and generating unique artworks inspired by established artistic aesthetics.
 
 # Input 
+
+
